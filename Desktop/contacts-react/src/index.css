@@ -125,11 +125,16 @@ ContactShowPage ul li{
 
 .phoneForm input, textarea  {
   width: 100pt;
-  padding: 10px;
+  padding: 7px;
   border-radius: 5px;
   border: 2px solid black;
   float: left;
-  margin: 0;
+  padding-top:10px; ;
+}
+
+.phoneForm  button  {
+
+  margin-top:10%; ;
 }
 
 .PhoneDetails .PhoneForm{
